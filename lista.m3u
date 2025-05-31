@@ -1261,7 +1261,7 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="577" tvg-name="Formula 3 : Aramco Spanish Grand Prix - Sprint Race (10:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Aramco Spanish Grand Prix_vs_Sprint Race.png" group-title="Eventi Live",Formula 3 : Aramco Spanish Grand Prix - Sprint Race (10:00)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
-#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : Aramco Spanish Grand Prix - Practice 3 (12:30)" tvg-logo="https://kitdls.net/wp-content/uploads/2023/09/Logo-Tay-Ban-Nha-Dream-League-Soccer-1.png" group-title="Eventi Live",Formula 1 : Aramco Spanish Grand Prix - Practice 3 (12:30)
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : Aramco Spanish Grand Prix - Practice 3 (12:30)" tvg-logo="https://npcworldwidespain.es/wp-content/uploads/elementor/thumbs/LOGO-SPANISH-GRAND-PRIX_1-qj17ufmhkv8cy11o3prebavg5fy53zbj46yfz015mg.png" group-title="Eventi Live",Formula 1 : Aramco Spanish Grand Prix - Practice 3 (12:30)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
 #EXTINF:-1 tvg-id="577" tvg-name="Formula 2 : Aramco Spanish Grand Prix - Sprint Race (14:15)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Aramco Spanish Grand Prix_vs_Sprint Race.png" group-title="Eventi Live",Formula 2 : Aramco Spanish Grand Prix - Sprint Race (14:15)
@@ -1279,7 +1279,7 @@ https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="879" tvg-name="Basket : Playoff Serie A | Semifinale | Gara 1 (20:40)" tvg-logo="https://static.sky.it/images/skysport/it/calcio/competizioni/competition_logo_big_21.png.transform/original/346f1f0b24ae823f0932d869dba76530ac77efc1/img.png" group-title="Eventi Live",Basket : Playoff Serie A | Semifinale | Gara 1 (20:40)
+#EXTINF:-1 tvg-id="879" tvg-name="Basket : Playoff Serie A | Semifinale | Gara 1 (20:40)" tvg-logo="https://i.pinimg.com/originals/cb/0d/4a/cb0d4a59d1d23fbb10e867effb67f71f.png" group-title="Eventi Live",Basket : Playoff Serie A | Semifinale | Gara 1 (20:40)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
@@ -1294,7 +1294,7 @@ https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="462" tvg-name="Super Rugby : Hurricanes vs Moana Pasifika (09:05)" tvg-logo="https://fcnoble.com.au/wp-content/uploads/2023/08/hurricanes-fc-logo_BLUE-vector-1024x1024.png" group-title="Eventi Live",Super Rugby : Hurricanes vs Moana Pasifika (09:05)
+#EXTINF:-1 tvg-id="462" tvg-name="Super Rugby : Hurricanes vs Moana Pasifika (09:05)" tvg-logo="http://fcnoble.com.au/wp-content/uploads/2023/08/hurricanes-fc-logo_BLUE-vector.png" group-title="Eventi Live",Super Rugby : Hurricanes vs Moana Pasifika (09:05)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-462.php
 
 #EXTINF:-1 tvg-id="460" tvg-name="United Rugby Championship : Sharks vs Munster (18:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Sharks_vs_Munster.png" group-title="Eventi Live",United Rugby Championship : Sharks vs Munster (18:30)
