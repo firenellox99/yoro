@@ -1237,12 +1237,6 @@ https://firexs90-mffp.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/in
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="870" tvg-name="World Cup Qualifying : Malta vs Lithuania (18:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Malta_vs_Lithuania.png" group-title="Eventi Live",World Cup Qualifying : Malta vs Lithuania (18:00)
-https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
-
-#EXTINF:-1 tvg-id="461" tvg-name="World Cup Qualifying : Andorra vs England (18:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Andorra_vs_England.png" group-title="Eventi Live",World Cup Qualifying : Andorra vs England (18:00)
-https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-461.php
-
 #EXTINF:-1 tvg-id="7" tvg-name="World Cup Qualifying : Albania vs Serbia (20:45)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Albania_vs_Serbia.png" group-title="Eventi Live",World Cup Qualifying : Albania vs Serbia (20:45)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-7.php
 
@@ -1265,12 +1259,6 @@ https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 https://example.m3u8
 
 #EXTINF:-1 tvg-id="879" tvg-name="Roland-Garros Men | Doubles | Final (18:30)" tvg-logo="https://images.squarespace-cdn.com/content/v1/671cf798c5e75702c14e5634/917aa920-bcdf-496e-aebf-6e0d87b127f0/Doubles_Logo_Circle_Blue+(2).png?format=1500w" group-title="Eventi Live",Roland-Garros Men | Doubles | Final (18:30)
-https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
-
-#EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="879" tvg-name="World Championship 8 Hours of Spa | Race (17:00)" tvg-logo="https://archives.bulbagarden.net/media/upload/thumb/f/fc/2023_Pokémon_World_Championships_logo.png/1200px-2023_Pokémon_World_Championships_logo.png" group-title="Eventi Live",World Championship 8 Hours of Spa | Race (17:00)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
