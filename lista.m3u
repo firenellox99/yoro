@@ -412,10 +412,10 @@ https://firexs90-mffp.hf.space/proxy/m3u?url=https://vavoo.to/play/525374356/ind
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://vavoo.to/play/877200714/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 3
-https://firexs90-mffp.hf.space/proxy/m3u?url=https://vavoo.to/play/573618724/index.m3u8
+https://firexs90-mffp.hf.space/proxy/m3u?url=https://vavoo.to/play/153693434/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 3 (2)
-https://firexs90-mffp.hf.space/proxy/m3u?url=https://vavoo.to/play/153693434/index.m3u8
+https://firexs90-mffp.hf.space/proxy/m3u?url=https://vavoo.to/play/573618724/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 4
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://vavoo.to/play/2416993844/index.m3u8
@@ -1000,10 +1000,10 @@ https://firexs90-mffp.hf.space/proxy/m3u?url=https://vavoo.to/play/2455610203/in
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://vavoo.to/play/2290395046/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RSI LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro", RSI LA 2
-https://firexs90-mffp.hf.space/proxy/m3u?url=https://vavoo.to/play/3475299702/index.m3u8
+https://firexs90-mffp.hf.space/proxy/m3u?url=https://vavoo.to/play/3590183307/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RSI LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro", RSI LA 2 (2)
-https://firexs90-mffp.hf.space/proxy/m3u?url=https://vavoo.to/play/3590183307/index.m3u8
+https://firexs90-mffp.hf.space/proxy/m3u?url=https://vavoo.to/play/3475299702/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RTC TELECALABRIA" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro", RTC TELECALABRIA
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://vavoo.to/play/639406775/index.m3u8
@@ -1276,22 +1276,19 @@ https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="575" tvg-name="Moto 2 : Greek Grand Prix of Spain Free Practice 2 (10:45)" tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/sports/70561637465.png?t=1707093347" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Spain Free Practice 2 (10:45)
-https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
-
 #EXTINF:-1 tvg-id="575" tvg-name="Moto 3 : Greek Grand Prix of Spain Qualifying (12:45)" tvg-logo="https://moto3.tech3racing.fr/images/2025/Calendar/1-M3-Spain-Test-finished.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Spain Qualifying (12:45)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
-#EXTINF:-1 tvg-id="878" tvg-name="World Championship 8 Hours of Spa-Francorchamps | Race (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",World Championship 8 Hours of Spa-Francorchamps | Race (13:00)
+#EXTINF:-1 tvg-id="878" tvg-name="World Championship 8 Hours of Spa-Francorchamps | Race (13:00)" tvg-logo="https://sparevival.com/wp-content/uploads/2024/02/RACB-2.png" group-title="Eventi Live",World Championship 8 Hours of Spa-Francorchamps | Race (13:00)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-id="575" tvg-name="Moto 2 : Greek Grand Prix of Spain Qualifying (13:40)" tvg-logo="https://cdn.racingnews365.com/Circuits/Spain/_639xAUTO_crop_center-center_none/f1_2024_spn_outline.png?v=1708704110" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Spain Qualifying (13:40)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
-#EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Greek Grand Prix of Spain Sprint Race (14:45)" tvg-logo="https://spanishgrandprixexpo.com/wp-content/uploads/2024/09/GRAND-PRIX-PRO.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Sprint Race (14:45)
+#EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Greek Grand Prix of Spain Sprint Race (14:45)" tvg-logo="https://www.pngall.com/wp-content/uploads/10/Grand-Prix-PNG-Picture.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Sprint Race (14:45)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
-#EXTINF:-1 tvg-id="879" tvg-name="World Championship 8 Hours of Spa | Race (17:00)" tvg-logo="https://logocreator.io/wp-content/uploads/2023/12/Race.png" group-title="Eventi Live",World Championship 8 Hours of Spa | Race (17:00)
+#EXTINF:-1 tvg-id="879" tvg-name="World Championship 8 Hours of Spa | Race (17:00)" tvg-logo="https://www.gt2europeanseries.com/assets/img/gt2-eu-pirelli.png" group-title="Eventi Live",World Championship 8 Hours of Spa | Race (17:00)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
@@ -1303,7 +1300,7 @@ https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Climbing" group-title="Eventi Live",--- Climbing ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="879" tvg-name="Men's Boulder | Final World Cup | Prague (18:30)" tvg-logo="https://i.pinimg.com/originals/e5/3d/86/e53d8678d08e388434ca91b57575a466.png" group-title="Eventi Live",Men's Boulder | Final World Cup | Prague (18:30)
+#EXTINF:-1 tvg-id="879" tvg-name="Men's Boulder | Final World Cup | Prague (18:30)" tvg-logo="https://www.pngkit.com/png/full/241-2413354_mens-boulder-polar-fleece.png" group-title="Eventi Live",Men's Boulder | Final World Cup | Prague (18:30)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
