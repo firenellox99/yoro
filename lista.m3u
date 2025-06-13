@@ -1252,13 +1252,13 @@ https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-name="Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) (15:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) (15:30)
+#EXTINF:-1 tvg-id="878" tvg-name="Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) (15:30)" tvg-logo="https://www.criterium-du-dauphine.fr/img/global/logo-og.png" group-title="Eventi Live",Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) (15:30)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="461" tvg-name="Super Rugby : Crusaders VS Blues (09:05)" tvg-logo="https://logoeps.com/wp-content/uploads/2013/10/crusaders-fc-vector-logo.png" group-title="Eventi Live",Super Rugby : Crusaders VS Blues (09:05)
+#EXTINF:-1 tvg-id="461" tvg-name="Super Rugby : Crusaders VS Blues (09:05)" tvg-logo="https://i.pinimg.com/originals/a4/b6/95/a4b69597c6379cf9bfd97024cb6b310c.png" group-title="Eventi Live",Super Rugby : Crusaders VS Blues (09:05)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-461.php
 
 
