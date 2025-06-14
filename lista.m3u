@@ -1240,16 +1240,13 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="851" tvg-name="UEFA Euro U-21 : Slovakia U21 vs Italy U21 (21:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Slovakia U21_vs_Italy U21.png" group-title="Eventi Live",UEFA Euro U-21 : Slovakia U21 vs Italy U21 (21:00)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
 
-#EXTINF:-1 tvg-id="1" tvg-name="FIFA Club World Cup : Al Ahly vs Inter Miami (02:00)" tvg-logo="https://images.seeklogo.com/logo-png/50/2/al-ahly-sports-club-2023-logo-png_seeklogo-507938.png?v=1956426944189814272" group-title="Eventi Live",FIFA Club World Cup : Al Ahly vs Inter Miami (02:00)
-https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1.php
-
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
 #EXTINF:-1 tvg-id="878" tvg-name="FIA WEC | Road to Le Mans 2nd Race (09:55)" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2014/02/Logo-FIA-World-Endurance-Championship.png" group-title="Eventi Live",FIA WEC | Road to Le Mans 2nd Race (09:55)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
-#EXTINF:-1 tvg-id="878" tvg-name="WorldSSP | Misano Race 1 (12:15)" tvg-logo="https://michaelhillpromotions.com/wp-content/uploads/2017/01/sbk-logo.png" group-title="Eventi Live",WorldSSP | Misano Race 1 (12:15)
+#EXTINF:-1 tvg-id="878" tvg-name="WorldSSP | Misano Race 1 (12:15)" tvg-logo="https://www.worldsbk.com/themes/responsive/static/img/riders/2024/helmets/ssp/8148.png?version=2018-10-22.r02-1721388955-f1722411" group-title="Eventi Live",WorldSSP | Misano Race 1 (12:15)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-id="878" tvg-name="WorldSBK | Round 6 | Misano Race 1 (13:30)" tvg-logo="https://www.worldsbk.com/themes/responsive/static/img/riders/2023/helmets/sbk/4425.png?version=2018-10-22.r02-1683300316-f3468a08" group-title="Eventi Live",WorldSBK | Round 6 | Misano Race 1 (13:30)
@@ -1264,7 +1261,7 @@ https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : Pirelli Canadian Grand Prix - Qualifying (22:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Pirelli Canadian Grand Prix_vs_Qualifying.png" group-title="Eventi Live",Formula 1 : Pirelli Canadian Grand Prix - Qualifying (22:00)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
-#EXTINF:-1 tvg-id="878" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 2 (23:00)" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2014/02/Logo-FIA-World-Endurance-Championship.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 2 (23:00)
+#EXTINF:-1 tvg-id="878" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 2 (23:00)" tvg-logo="https://images.seeklogo.com/logo-png/45/3/fia-formula-e-world-championship-logo-png_seeklogo-459530.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 2 (23:00)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-id="878" tvg-name="FIA WEC | 24 Hours of Le Mans Career (03:00)" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2014/02/Logo-FIA-World-Endurance-Championship.png" group-title="Eventi Live",FIA WEC | 24 Hours of Le Mans Career (03:00)
@@ -1285,7 +1282,7 @@ https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Fencing" group-title="Eventi Live",--- Fencing ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="851" tvg-name="European Championships 2025 - Day 1: Women's Foil and Men's Sabre Finals (from Genoa) (18:20)" tvg-logo="http://eifencer.com/wp-content/uploads/2019/11/logo.png" group-title="Eventi Live",European Championships 2025 - Day 1: Women's Foil and Men's Sabre Finals (from Genoa) (18:20)
+#EXTINF:-1 tvg-id="851" tvg-name="European Championships 2025 - Day 1: Women's Foil and Men's Sabre Finals (from Genoa) (18:20)" tvg-logo="https://s1.ticketm.net/tm/en-us/img/static/marchmadness/24/2024_WFF_Logo.png" group-title="Eventi Live",European Championships 2025 - Day 1: Women's Foil and Men's Sabre Finals (from Genoa) (18:20)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
 
 #EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
@@ -1300,7 +1297,7 @@ https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-name="Triathlon" group-title="Eventi Live",--- Triathlon ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="879" tvg-name="T100 Triathlon World Tour | Vancouver Men (18:15)" tvg-logo="https://content.protriathletes.org/content/images/2025/04/027aaf17-2108-4a10-b182-06a7e5b91745.png" group-title="Eventi Live",T100 Triathlon World Tour | Vancouver Men (18:15)
+#EXTINF:-1 tvg-id="879" tvg-name="T100 Triathlon World Tour | Vancouver Men (18:15)" tvg-logo="https://tri-mag.de/wp-content/uploads/2024/11/Cover-t224-t225.png" group-title="Eventi Live",T100 Triathlon World Tour | Vancouver Men (18:15)
 https://firexs90-mffp.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
 
